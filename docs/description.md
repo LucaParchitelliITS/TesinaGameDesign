@@ -16,13 +16,14 @@ Negli ultimi giorni della sua vita, un vecchio Ulisse si lascia trasportare dall
 Il gioco è un platform-adventure 2D in singleplayer, in cui il protagonista tramite Ulisse esplora ambientazioni dell'Est del Mediterraneo, come la Terra dei Ciclopi e l'isola di Ogigia, così come altre prese dalla mitologi greca, come nella discesa nell'Ade, e conosce personaggi mitologici come la maga Circe o Polifemo. Durante la sua avventura si ritrova ad affrontare diversi nemici utilizzando 3 principali armi, la lancia, la spada e scudo, e l'arco per attaccare a distanza, e sfruttando le invocazioni degli Dei per ricevere dei bonus/malus nella fase di combattimento e di esplorazione.
 
 I controlli del gioco si basano su 6 principali comandi:
-- movimento, che permette al personaggio di muoversi orizzontalmente, saltare, abbassarsi, nuotare
-- schivata, che permette di schivare degli attacchi
-- attacco 1, l'attacco semplice con l'arma equipaggiata
-- attacco 2, l'attacco speciale con l'arma equipaggiata
-- switch, che permette di cambiare l'arma equipaggiata
-- invocazione, che permette di attivare il buff temporaneo in base all'invocazione equipaggiata
+- *Movimento*, che permette al personaggio di muoversi orizzontalmente, saltare, abbassarsi, nuotare
+- *Schivata*, che permette di schivare degli attacchi
+- *Attacco Base AB*, l'attacco semplice con l'arma equipaggiata
+- *Attacco Speciale AS*, l'attacco speciale con l'arma equipaggiata
+- *Switch*, che permette di cambiare l'arma equipaggiata
+- *Invocazione*, che permette di attivare il buff temporaneo in base all'invocazione equipaggiata
 
+Attraverso l'utilizzo dell'*Invocazione*, è possibile richiamare la benevolenza di un Dio dell'Olimpo, richiedendone l'intervento e le abilità per un periodo di tempo limitato. Per un determinato periodo, l'invocazione fornisce dei buff e delle modifiche alle normali abilità del personaggio (es. *Hermes* fornisce i propri talari, trasformando la *Schivata* in *Scatto*, *Apollo* rende le frecce più potenti, trasformando l'*AS* dell'arco un *Colpo a ricerca*). Queste abilità a fine gioco permettono di esplorare zone della mappa precedentemente non accessibili, portando a nuovi scenari e raggiungendo *Collezionabili*.
 
 ## **Estetica**
 

@@ -6,3 +6,8 @@ theme:
 nav:
   - Indice: index.md
   - Tema e Tetrade: description.md
+  - Bibliografia: bibliography.md
+  - Personaggi: characters.md
+  - Luoghi: locations.md
+  - Nemici: enemies.md
+  - Boss: bosses.md
