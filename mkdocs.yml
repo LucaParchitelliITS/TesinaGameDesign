@@ -1,0 +1,8 @@
+site_name: -nome gioco- Game Bible
+
+theme:
+  name: "material"
+
+nav:
+  - Indice: index.md
+  - Tema e Tetrade: description.md
