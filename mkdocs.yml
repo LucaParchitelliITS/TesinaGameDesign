@@ -1,11 +1,11 @@
-site_name: -nome gioco- Game Bible
+site_name: Nostos Game Bible
 
 theme:
   name: "material"
 
 nav:
-  - Indice: index.md
-  - Tema e Tetrade: description.md
+  - Il gioco e il Tema: index.md
+  - Tetrade: description.md
   - Gameplay:
       - Base di Gameplay: gameplay.md
       - Meccaniche del Giocatore: mechanics.md

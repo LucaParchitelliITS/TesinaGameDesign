@@ -1,6 +1,6 @@
 # Base di Gameplay
 
-Il gioco è un platform-adventure 2D singleplayer strutturato a livelli isolati, percorribili in un unico senso durante il primo gameplay, ma rigiocabili alla sua fine.
+*Nostos* è un platform-adventure 2D singleplayer strutturato a livelli isolati, percorribili in un unico senso durante il primo gameplay, ma rigiocabili alla sua fine.
 
 Lo scopo del protagonista sarà arrivare alla fine del livello superando i puzzle e affrontando diversi nemici utilizzando 3 principali armi:
 
