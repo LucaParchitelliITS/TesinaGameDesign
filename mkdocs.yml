@@ -6,8 +6,7 @@ theme:
 nav:
   - Indice: index.md
   - Tema e Tetrade: description.md
+  - Gameplay:
+      - Base di Gameplay: gameplay.md
+      - Meccaniche del Giocatore: mechanics.md
   - Bibliografia: bibliography.md
-  - Personaggi: characters.md
-  - Luoghi: locations.md
-  - Nemici: enemies.md
-  - Boss: bosses.md
