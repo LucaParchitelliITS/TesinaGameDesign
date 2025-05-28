@@ -26,7 +26,7 @@ Ulisse si ritrova solo sull'isola di Ogigia, senza la possibilità di fuggire a 
 
 **LUOGHI IMPORTANTI:** **
 
-**COLLEZIONABILI:** 
+**COLLEZIONABILI:** **
 
 
 ---------------------------------------------------------------
@@ -57,7 +57,7 @@ Ulisse, con quel che rimane della sua flotta, si trova a dover superare lo Stret
 
 **LUOGHI IMPORTANTI:** **
 
-**COLLEZIONABILI:** 
+**COLLEZIONABILI:** **
 
 
 ---------------------------------------------------------------
@@ -73,7 +73,7 @@ Ulisse compie un rituale e, attraverso un sacrificio, richiama le anime dei mort
 
 **LUOGHI IMPORTANTI:** **
 
-**COLLEZIONABILI:** 
+**COLLEZIONABILI:** **
 
 
 ---------------------------------------------------------------
@@ -89,7 +89,7 @@ Ulisse e la sua flotta attraccano sull'isola di Eea, e vengono accolti dalla mag
 
 **LUOGHI IMPORTANTI:** **
 
-**COLLEZIONABILI:** 
+**COLLEZIONABILI:** **
 
 
 ---------------------------------------------------------------
