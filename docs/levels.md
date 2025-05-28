@@ -62,7 +62,7 @@ Ulisse, con quel che rimane della sua flotta, si trova a dover superare lo Stret
 
 ---------------------------------------------------------------
 
-- Livello 4 *"Nel Buio dell'Ade"*
+## Livello 4 *"Nel Buio dell'Ade"*
 
 **AMBIENTAZIONE:** *Porte dell'Ade*
 
@@ -78,7 +78,7 @@ Ulisse compie un rituale e, attraverso un sacrificio, richiama le anime dei mort
 
 ---------------------------------------------------------------
 
-- Livello 5 *"A Cena con Circe"*
+## Livello 5 *"A Cena con Circe"*
 
 **AMBIENTAZIONE:** *L'isola di Eea*
 
